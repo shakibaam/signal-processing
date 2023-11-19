@@ -8,7 +8,7 @@ There 4 different project here that each cover a different section in the Signal
 * [fourier-transform](https://github.com/shakibaam/signal-processing/tree/master/fourier-transform)
 
 ## Plotting signals
-Using numpy and matplotlib python libraries ti plot discrete and continous signals. There are some examples depicted in the picture below:
+Using numpy and matplotlib python libraries to plot discrete and continous signals. There are some examples depicted in the picture below:
 
  ![discrete](https://github.com/shakibaam/signal-processing/blob/master/pictures/discrete.png)
 
